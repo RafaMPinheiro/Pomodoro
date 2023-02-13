@@ -21,7 +21,7 @@ npm run dev
 
 ## Author
 
-👤 **afael Pinheiro**
+👤 **Rafael Pinheiro**
 
 * Github: [@RafaMPinheiro](https://github.com/RafaMPinheiro)
 * LinkedIn: [@rafamessiaspinheiro](https://linkedin.com/in/rafamessiaspinheiro)
