@@ -33,6 +33,7 @@ const Home = () => {
     <>
       <Head>
         <title>Pomodoro</title>
+        <link rel="icon" type="imagem/png" href="../public/icon.png" />
       </Head>
       <main className={theme}>
         <div className={`card ` + theme}>
